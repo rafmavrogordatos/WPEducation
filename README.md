@@ -77,7 +77,7 @@ In the settings, you can:
 
 ## Contributing
 
-We welcome contributions to the WP Education Plugin! If you encounter any issues, have suggestions, or want to contribute code, please visit the [WP Education Plugin GitHub repository](https://github.com/your-repository) for more information.
+We welcome contributions to the WP Education Plugin!
 
 ## License
 
